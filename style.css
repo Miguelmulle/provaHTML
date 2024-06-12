@@ -1,0 +1,12 @@
+body {
+    background-image: url(gifdefundo.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contato {
+    color: #2600fd; /* Vermelho */
+}
+
+.sobre {
+    color: #2600fd; /* Azul */
+}
